@@ -66,8 +66,8 @@ cover:
 dream:
   enable: true
   showTitle: true
-  title: 我的梦想
-  text: 不是每个人都应该像我这样去建造一座水晶大教堂，但是每个人都应该拥有自己的梦想，设计自己的梦想，追求自己的梦想，实现自己的梦想。梦想是生命的灵魂，是心灵的灯塔，是引导人走向成功的信仰。有了崇高的梦想，只要矢志不渝地追求，梦想就会成为现实，奋斗就会变成壮举，生命就会创造奇迹。——罗伯·舒乐
+  title: Adventures
+  text: Below you can find my adventures. An adventure is an exciting experience that is typically a bold, sometimes risky, undertaking. Adventures may be activities with some potential for physical danger such as traveling, exploring, skydiving, mountain climbing, scuba diving, river rafting or participating in extreme sports.
 
 # Whether to display the musics.
 # 是否在首页显示音乐.
@@ -188,9 +188,9 @@ wordCount:
 postInfo:
   date: true # 发布日期
   update: false # 更新日期
-  wordCount: true # 文章字数统计
-  min2read: true # 文章阅读时长
-  readCount: true # 文章阅读次数
+  wordCount: false # 文章字数统计
+  min2read: false # 文章阅读时长
+  readCount: false # 文章阅读次数
 
 # Whether to activate the 'love' effect of clicking on the page.
 # 是否激活点击页面的'爱心'效果，默认激活.
